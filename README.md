@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/Mtn-Churn-Project-Asset.png" alt="MTN Churn Prediction Banner" width="100%">
-</p>
 
 # 📱 MTN Customer Retention Engine
 
